@@ -13,6 +13,7 @@ public class CalcExample1 {
 		 for(int i=0;i<opCodes.length;i++) {
 			 
 			 // calcExample if-else condition modified into switch case 
+			 
 			 switch(opCodes[i]) {
 			 
 			 case 'a':
